@@ -4,8 +4,6 @@
 
 <div align="center">
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="svelte logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="react logo"  />
